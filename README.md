@@ -1,5 +1,6 @@
 # Q-and-A-Assistant for beginner
-As u ask Questions which are answerable by google   in voice ,the answer for the question is given in the form of voice  with a text
+only google answerable questions to be asked
+
 
 
 Requirement: Python3.11.7 version interpreter
